@@ -1,0 +1,150 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+
+.big-heading {
+	margin-top: 100px;
+  font-family: "Montserrat-Black";
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+img{
+	width: 80%;
+}
+.tests{
+	padding: 100px;
+
+}
+
+#head{
+	padding-top: 75px;
+	margin-bottom: 75px;
+	font-weight: bold;
+}
+.review{
+	box-sizing: border-box;
+
+	
+	background-color: #344B7F;
+	padding: 60px;
+	border-radius: 15px;
+
+	
+}
+.row{
+	margin-top: 50px;
+	margin-bottom: 100px;
+
+}
+#mybtn{
+
+	background-color: #59BB9F;
+	color: white;
+	font-size: 1.2em;
+	font-weight: bold;
+	width: 150px;
+	height: 50px;
+	border-radius: 50px;
+	border: 1px solid #242E68 ;
+}
+
+.navbar .nav-item .nav-link
+{
+
+	color: white;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.colored-section
+{
+	background-color: #242E68;
+  color: #fff;
+
+}
+
+
+
+hr
+{
+   background-color: white;
+}
+
+
+.fa {  
+  padding: 20px;  
+text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 50px;  
+}  
+
+
+.fa-facebook {  
+  
+  color: white;  
+}  
+
+.fa-twitter {  
+   
+  color: white;  
+} 
+
+.fa-linkedin {  
+    
+  color: white;  
+}  
+.fa-instagram {  
+   
+  color: white;  
+}  
+.fa-envelope
+{
+	color: #242E68;
+	font-size: 2em;
+}
+.fa-phone
+{
+	color: #242E68;
+	font-size: 2em;
+}
+.fa-whatsapp
+{
+	color: #242E68;
+	font-size: 2em;
+}
+
+.fa-angle-up{
+	color: white;
+}
+a:hover{
+
+text-decoration: none;
+}
+
+
+@media (max-width: 991px)
+{
+
+#mybtn{
+	margin-bottom: 25px;
+}
+
+
+
+}
+
+
+.foo
+{
+	background-color: #323751;
+  color: #fff;
+
+}
+
